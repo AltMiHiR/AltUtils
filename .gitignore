@@ -1,0 +1,14 @@
+# Ignore Directories
+cache/
+__pycache__/
+test/
+.venv/
+.env/
+.git/
+
+# Ignore Files
+*.log
+*.env
+*.pyc
+*.session
+*.session-journal
