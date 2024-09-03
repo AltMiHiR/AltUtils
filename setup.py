@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='AltUtils',
-    version='1.0.0',
+    version='1.0.1',
     description='Utility Classes and Functions',
     author='xMiHiR',
     author_email='thexboy131@gmail.com',
